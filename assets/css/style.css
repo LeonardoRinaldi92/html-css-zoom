@@ -32,8 +32,16 @@
     justify-content: space-between;
 }
 
+.jstf-end {
+    justify-content: flex-end;
+}
+
 .algn-spcbwtnn {
     align-content:space-between;
+}
+
+.algn-cntr {
+    align-content: center;
 }
 
 .hcalc {
@@ -62,6 +70,10 @@
 
 .h82 {
     height: 80vh;
+}
+
+.mrr-5px {
+    margin-right: 5px;
 }
 
 .padd-2 {
@@ -102,4 +114,13 @@
 
 .font14 {
     font-size: 14px;
+}
+
+.brd-radius {
+border-radius: 5px;
+}
+
+.bck-graylight {
+    background-color: rgb(74,74,74);
+    padding: 5px 10px;
 }
