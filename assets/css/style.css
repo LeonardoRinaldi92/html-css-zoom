@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 .maincontainer {
@@ -41,7 +42,7 @@
 }
 
 .algn-cntr {
-    align-content: center;
+    align-items: center;
 }
 
 .hcalc {
@@ -76,6 +77,14 @@
     margin-right: 5px;
 }
 
+.mr-left20 {
+    margin-left: 20px;
+}
+
+.mrg-bot5 {
+    margin-bottom: 5px;
+}
+
 .padd-2 {
     padding: 2vh 0;
 }
@@ -108,12 +117,24 @@
     color: white;
 }
 
+.txt-centre {
+    text-align:center;
+}
+
 .txt-red {
     color: red;
 }
 
 .font14 {
     font-size: 14px;
+}
+
+.lnhgt-16 {
+    line-height: 16px;
+}
+
+.font50 {
+    font-size: 35px;
 }
 
 .brd-radius {
