@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.maincontainer {
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+}
+
+.flex {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.provacolore {
+    background-color: antiquewhite;
+}
+
+
+.mr0auto {
+    margin: 0 auto;
+}
+
+.wdth90 {
+    width: 90%;
+}
+
+.h5percent{
+    height: 4%;
+    background-color: rgb(34,34,34);
+}
+
+.h10percent{
+    height: 8%;
+    background-color: rgb(34,34,34);
+}
+
+.h75percent {
+    height: 88%;
+}
