@@ -133,8 +133,13 @@
     line-height: 16px;
 }
 
+.font20 {
+    font-size: 20;
+    font-weight: bolder;
+}
+
 .font50 {
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .brd-radius {
@@ -144,4 +149,12 @@ border-radius: 5px;
 .bck-graylight {
     background-color: rgb(74,74,74);
     padding: 5px 10px;
+}
+
+.button {
+    background-color: gray;
+    padding: 20px 50px;
+    border: 1px solid red;
+    border-radius: 20px;
+
 }
